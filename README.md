@@ -1,6 +1,6 @@
 # Countdown
 
-He desarrollado un componente que es capas de hacer una cuenta regresiva.
+He desarrollado un componente para hacer cuentas regresivas.
 
 ## 🚀 Como funciona?
 

@@ -4,8 +4,9 @@ He desarrollado un componente para hacer cuentas regresivas.
 
 ## 🚀 Como funciona?
 
-Es simple, se le puede pasar 3 parámetros al componente.
+Es simple, se le pasa un valor de tiempo, que es la duración de la cuenta regresiva y un valor que maneja el comienzo la cuenta regresiva. Al finalizar la cuenta regreseiva se setea nuevamente el valor inicial.
 
+Se puede pasar 3 parámetros al componente:
 1. initValue: este parámetro recibe el valor de tiempo en segundos de la duración del contador.
 2. trigger: este parámetro recibe un valor booleano y una vez que recibe un valor "true" comienza la cuenta regresivalo.
 3. onFinishCount: en este parámetro se pasa una función que se ejecuta cuando el contador llega a cero. No es obligatorio pasar este parametro.  
